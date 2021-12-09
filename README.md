@@ -37,6 +37,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-pandey-04&show_icons=true&locale=en&layout=compact" alt="himanshu-pandey-04" /></p>
 
+<br/>
+<a href="https://github.com/Vaidehizade/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vaidehizade&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-pandey-04&show_icons=true&locale=en" alt="himanshu-pandey-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-pandey-04&" alt="himanshu-pandey-04" /></p>

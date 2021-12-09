@@ -2,36 +2,37 @@
 <h3 align="center">An enthusiastic Full-stack developer and AI programmer</h3>
 <h3 align="center">Thought: Luck is when Preparation meets Oppurtunity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" /> </p>
-
-- 🔭 I’m currently working on 3 mega-projects and 5 mini-projects.
+<br/><br/>
+<h4> 🔭 I’m currently working on 3 mega-projects and 5 mini-projects.</h4>
 - Mega projects -
   1. **AI integrated E-Commerce multi-category website development**
-        Currently, with I being the team-lead, we’re building a full fledged E-Commerce website with the integration of Full-Stack Development and Artificial Intelligence. This website will be Chatbot supported, and will use AI for Personalized Recommendations and Backend Analysis.
-        * Responsive-Animated Website
-        * made up of 10+ pages/apps
-        * new and unique ideas implemented
-        * website for both consumer, manufacturer
-        * query/complain chatbot integrated, personalized recommendation, consumer-manufacturer analysis
-        * Role-based login system
-        Languages used are: HTML, CSS, Js, Python, Sqlite, MongoDB
-        Frameworks used are: React.js, Django
+        Currently, with I being the team-lead, we’re building a full fledged E-Commerce website with the integration of Full-Stack Development and Artificial Intelligence. This website will be Chatbot supported, and will use AI for Personalized Recommendations and Backend Analysis.<br/>
+        <li> Responsive-Animated Website</li>
+        <li> made up of 10+ pages/apps</li>
+        <li> new and unique ideas implemented</li>
+        <li> website for both consumer, manufacturer</li>
+        <li> query/complain chatbot integrated, personalized recommendation, consumer-manufacturer analysis</li>
+        <li> Role-based login system</li>
+        Languages used are: HTML, CSS, Js, Python, Sqlite, MongoDB<br/>
+        Frameworks used are: React.js, Django<br/>
         AI Algorithms/Techniques used are: Neural Networks, Natural Language Processing, Recommendation, Clustering, Regression, VPR, Computer Vision, etc.
-<br/>
+<br/><br/>
   2. **AI Digital Assistant**
-        Being in 5th gen of computers, and being enthusiastic in AI, I’ve initiated a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:
-        * Device Surveillance and Controlling, File Manager
-        * Personal and Voice Assistance
-        * CV and Neural Networks, Data Warehousing, Data Analytics
-        * Website Automations
-        * Upcoming: Home Automation
+        Being in 5th gen of computers, and being enthusiastic in AI, I’ve initiated a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:<br/>
+        <li> Device Surveillance and Controlling, File Manager</li>
+        <li> Personal and Voice Assistance</li>
+        <li> CV and Neural Networks, Data Warehousing, Data Analytics</li>
+        <li> Website Automations</li>
+        <li> Upcoming: Home Automation</li>
         AI Algorithms/Techniques used are: Neural Networks, NLP, Cosine-similarity, Decision Tree, Random Forest, Recommendation, Classification, Clustering, Regression, Computer Vision, etc.
-<br/>
+<br/><br/>
   3. **Air-Traffic Controller**
         To monitor Air Traffic, and facilitate easy management of priorities and emergencies, I built an C#.NET app with following features:
-        * Holding Stack Management - priority-wise analysis using Fuzzy Logic
-        * Dynamic flight-status color-coded display
-        * Role-based login system
+        <li> Holding Stack Management - priority-wise analysis using Fuzzy Logic</li>
+        <li> Dynamic flight-status color-coded display</li>
+        <li> Role-based login system</li>
         Language/Techniques used are: C#.NET, WFA, Multi-Threading, DSA
+<br/>
 <br/>
 <br/>
 - 🌱 I’m currently learning **Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.**

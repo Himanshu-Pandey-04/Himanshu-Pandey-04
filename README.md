@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himanshu Pandey</h1>
+<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Pandey</h1>
   <br/>
   <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and AI programmer</h3>
   <h4 align="center"><em>Thought: Luck is when Preparation meets Oppurtunity</em></h3>

@@ -42,36 +42,36 @@
 <br/>
 <br/>
 <br/>
-
-<h2> 🌱 I’m currently learning:</h2>
+<br/>
+<h3> 🌱 I’m currently learning:</h3>
 <strong>Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.</strong>
-
 <br/>
-<h2> 🤝 I’m looking to collaborate on:</h2>
+<br/>
+<h3> 🤝 I’m looking to collaborate on:</h3>
 <strong>full-stack dev / AI-ML dev or automation projects</strong>
-
 <br/>
-<h2> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h2>
+<br/>
+<h3> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h3>
 <strong>C++, Python, Java, HTML, CSS, Js, C#.NET, SQL, C++/CLR, Linux, Arduino, Testing, Automation</strong>
-
 <br/>
-<h2> 👨‍💻 All of my projects are available at:</h2>
-GitHub, Kaggle, out of which some are public.
-
 <br/>
-  <h2> 📝 I regularly practise on:</h2>
+<h3> 👨‍💻 All of my projects are available at:</h3>
+<strong>GitHub, Kaggle, out of which some are public.</strong>
+<br/>
+<br/>
+  <h3> 📝 I regularly practise on:</h3>
 <strong>Data structures and algorithms, dynamic programming and competitive programming Skills</strong>
-
 <br/>
-  <h2> 💬 Ask me about:</h2>
+<br/>
+  <h3> 💬 Ask me about:</h3>
 <strong>React, Django, Selenium, C#.NET, CP, DP, DSA, PyAutoGUI</strong>
-
 <br/>
-  <h2> 📫 How to reach me:</h2>
+<br/>
+  <h3> 📫 How to reach me:</h3>
 <strong>himanshuvpandey@gmail.com</strong>
-
 <br/>
-  <h2> ⚡ I'm pretty good at:</h2>
+<br/>
+  <h3> ⚡ I'm pretty good at:</h3>
 <strong>Team and project management</strong>
 <br/>
 <br/>

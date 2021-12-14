@@ -375,6 +375,7 @@ Team and project management
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-pandey-04&show_icons=true&locale=en" alt="himanshu-pandey-04" /></p>
 <br/>
 <br/>
+<hr/>
 <br/>
 <br/>
 
@@ -392,7 +393,9 @@ Team and project management
         <strong>Languages used are:</strong> HTML, CSS, Js, Python, Sqlite, MongoDB<br/>
         <strong>Frameworks used are:</strong> React.js, Django<br/>
         <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, Natural Language Processing, Recommendation, Clustering, Regression, VPR, Computer Vision, etc.
-<br/><br/>
+<br/>
+<hr/>
+<br/>
   <h3> 2. AI Digital Assistant</h3>
         <em>Being in 5th gen of computers, and being enthusiastic in AI, I am working on a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:</em><br/>
         <br/>
@@ -404,7 +407,9 @@ Team and project management
         <li>Upcoming: Home Automation</li>
         </ul>
         <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, NLP, Cosine-similarity, Decision Tree, Random Forest, Recommendation, Classification, Clustering, Regression, Computer Vision, etc.
-<br/><br/>
+<br/>
+<hr/>
+<br/>
   <h3> 3. Air-Traffic Controller</h3>
         <em>To monitor Air Traffic, and facilitate easy management of priorities and emergencies, I built an C#.NET app with following features:</em><br/>
         <br/>

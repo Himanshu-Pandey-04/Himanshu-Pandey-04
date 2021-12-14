@@ -331,6 +331,12 @@
 </p>
 <br/>
 <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Pandey-04)](https://git.io/streak-stats)
+<br/>
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-pandey-04&show_icons=true&locale=en&layout=compact" alt="himanshu-pandey-04" /></p>
 <br/>
 <br/>

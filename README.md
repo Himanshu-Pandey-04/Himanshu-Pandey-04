@@ -11,6 +11,7 @@
 
 <h3> 1. AI integrated E-Commerce multi-category website development</h3>
         <em>Leading a team to build a full fledged E-Commerce website with the integration of Full-Stack Development and Artificial Intelligence</em><br/>
+        <br/>
         <ul>
         <li> Responsive-Animated Website for both consumer and manufacturer</li>
         <li> New and unique ideas implemented</li>
@@ -22,6 +23,7 @@
 <br/><br/>
   <h3> 2. AI Digital Assistant</h3>
         <em>Being in 5th gen of computers, and being enthusiastic in AI, I am working on a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:</em><br/>
+        <br/>
         <ul>
         <li> Device Surveillance and Controlling, File Manager</li>
         <li> Personal and Voice Assistance</li>
@@ -33,6 +35,7 @@
 <br/><br/>
   <h3> 3. Air-Traffic Controller</h3>
         <em>To monitor Air Traffic, and facilitate easy management of priorities and emergencies, I built an C#.NET app with following features:</em><br/>
+        <br/>
         <ul>
         <li> Holding Stack Management - priority-wise analysis using Fuzzy Logic</li>
         <li> Dynamic flight-status color-coded display</li>
@@ -324,22 +327,23 @@
 </p>
 <br/>
 <br/>
+
+
+<!-- My Streak Stats -->
 <p align="center">
-    <a href="https://github.com/Himanshu-Pandey-04/github-readme-streak-stats">
-        <img alt="Himanshu Pandey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Pandey-04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://git.io/streak-stats">
+        <img alt="Himanshu Pandey's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Himanshu-Pandey-04&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&ring=0402DD&border=FFFFFF&fire=FFF920&currStreakNum=17DCDD&sideNums=29FF00&stroke=25D6DD&sideLabels=00FDFF&currStreakLabel=11FFF8&dates=FFF800&background=000000"/>
     </a>
 </p>
 <br/>
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Pandey-04)](https://git.io/streak-stats)
-<br/>
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-<br/>
-<br/>
+
+<!-- Most Used Languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-pandey-04&show_icons=true&locale=en&layout=compact" alt="himanshu-pandey-04" /></p>
 <br/>
 <br/>
+
+
 <a href="https://github.com/Himanshu-Pandey-04/github-readme-activity-graph"><img alt="Himanshu Pandey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Himanshu-Pandey-04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>

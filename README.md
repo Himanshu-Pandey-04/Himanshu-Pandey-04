@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Pandey</h1>
+<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Pandey :person_in_tuxedo:</h1>
   <br/>
-  <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and AI programmer</h3>
+  <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and :man_technologist: AI programmer</h3>
   <h4 align="center"><em>Thought: Luck is when Preparation meets Oppurtunity</em></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
@@ -20,7 +20,7 @@ Full-stack dev, AI-ML dev or automation projects
 C++, Python, Java, HTML, CSS, Js, C#.NET, SQL, C++/CLR, Linux, Arduino, Testing, Automation
 <br/>
 <br/>
-<h3> 👨‍💻 All of my projects are available at:</h3>
+<h3> :chart_with_upwards_trend: All of my projects are available at:</h3>
 GitHub, Kaggle, out of which some are public.
 <br/>
 <br/>

@@ -5,50 +5,114 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
 </p>
+<hr/>
 <br/>
 <br/>
 <h3> 🌱 I’m currently learning:</h3>
-<strong>Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.</strong>
+Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.
 <br/>
 <br/>
 <h3> 🤝 I’m looking to collaborate on:</h3>
-<strong>full-stack dev / AI-ML dev or automation projects</strong>
+Full-stack dev, AI-ML dev or automation projects
 <br/>
 <br/>
 <h3> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h3>
-<strong>C++, Python, Java, HTML, CSS, Js, C#.NET, SQL, C++/CLR, Linux, Arduino, Testing, Automation</strong>
+C++, Python, Java, HTML, CSS, Js, C#.NET, SQL, C++/CLR, Linux, Arduino, Testing, Automation
 <br/>
 <br/>
 <h3> 👨‍💻 All of my projects are available at:</h3>
-<strong>GitHub, Kaggle, out of which some are public.</strong>
+GitHub, Kaggle, out of which some are public.
 <br/>
 <br/>
   <h3> 📝 I regularly practise on:</h3>
-<strong>Data structures and algorithms, dynamic programming and competitive programming Skills</strong>
+Data structures and algorithms, dynamic programming and competitive programming Skills
 <br/>
 <br/>
   <h3> 💬 Ask me about:</h3>
-<strong>React, Django, Selenium, C#.NET, CP, DP, DSA, PyAutoGUI</strong>
+React, Django, Selenium, C#.NET, CP, DP, DSA, PyAutoGUI
 <br/>
 <br/>
   <h3> 📫 How to reach me:</h3>
-<strong>himanshuvpandey@gmail.com</strong>
+himanshuvpandey@gmail.com
 <br/>
 <br/>
   <h3> ⚡ I'm pretty good at:</h3>
-<strong>Team and project management</strong>
+Team and project management
 <br/>
 <br/>
 <br/>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/himanshu-pandey-070a001b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himanshu-pandey-070a001b6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14952627/himanshu-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14952627/himanshu-pandey" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/himanshuvpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/himanshuvpandey" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/himanshu_pandey_0412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/himanshu_pandey_0412/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/himpan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/himpan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/hackerhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hackerhp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/hacker_hp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hacker_hp/" height="30" width="40" /></a>
+    <a
+      href="https://linkedin.com/in/www.linkedin.com/in/himanshu-pandey-070a001b6"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="www.linkedin.com/in/himanshu-pandey-070a001b6"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://stackoverflow.com/users/https://stackoverflow.com/users/14952627/himanshu-pandey"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        alt="https://stackoverflow.com/users/14952627/himanshu-pandey"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://kaggle.com/https://www.kaggle.com/himanshuvpandey"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+        alt="https://www.kaggle.com/himanshuvpandey"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://instagram.com/https://www.instagram.com/himanshu_pandey_0412/"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        alt="https://www.instagram.com/himanshu_pandey_0412/"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.codechef.com/users/https://www.codechef.com/users/himpan"
+      target="blank"
+      ><img
+        align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+        alt="https://www.codechef.com/users/himpan"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.hackerrank.com/https://www.hackerrank.com/hackerhp"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+        alt="https://www.hackerrank.com/hackerhp"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.leetcode.com/https://leetcode.com/hacker_hp/"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="https://leetcode.com/hacker_hp/"
+        height="30"
+        width="40"
+    /></a>
 </p>
 <br/>
 <br/>
@@ -289,7 +353,7 @@
 <br/>
 <br/>
 
-
+<hr/>
 <!-- My Streak Stats -->
 <p align="center">
     <a href="https://git.io/streak-stats">

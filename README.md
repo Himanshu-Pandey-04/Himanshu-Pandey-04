@@ -6,45 +6,6 @@
 <img src="https://img.shields.io/badge/Lives-India-success" />
 </p>
 <br/>
-
-## 🔭 Projects - 3 mega and 5 mini
-
-<h3> 1. AI integrated E-Commerce multi-category website development</h3>
-        <em>Leading a team to build a full fledged E-Commerce website with the integration of Full-Stack Development and Artificial Intelligence</em><br/>
-        <br/>
-        <ul>
-        <li> Responsive-Animated Website for both consumer and manufacturer</li>
-        <li> New and unique ideas implemented</li>
-        <li> Chatbot integrated, personalized recommendation, Analysis</li>
-        </ul>
-        <strong>Languages used are:</strong> HTML, CSS, Js, Python, Sqlite, MongoDB<br/>
-        <strong>Frameworks used are:</strong> React.js, Django<br/>
-        <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, Natural Language Processing, Recommendation, Clustering, Regression, VPR, Computer Vision, etc.
-<br/><br/>
-  <h3> 2. AI Digital Assistant</h3>
-        <em>Being in 5th gen of computers, and being enthusiastic in AI, I am working on a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:</em><br/>
-        <br/>
-        <ul>
-        <li> Device Surveillance and Controlling, File Manager</li>
-        <li> Personal and Voice Assistance</li>
-        <li> CV and Neural Networks, Data Warehousing, Data Analytics</li>
-        <li> Website Automations</li>
-        <li>Upcoming: Home Automation</li>
-        </ul>
-        <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, NLP, Cosine-similarity, Decision Tree, Random Forest, Recommendation, Classification, Clustering, Regression, Computer Vision, etc.
-<br/><br/>
-  <h3> 3. Air-Traffic Controller</h3>
-        <em>To monitor Air Traffic, and facilitate easy management of priorities and emergencies, I built an C#.NET app with following features:</em><br/>
-        <br/>
-        <ul>
-        <li> Holding Stack Management - priority-wise analysis using Fuzzy Logic</li>
-        <li> Dynamic flight-status color-coded display</li>
-        <li> Role-based login system</li>
-         </ul>
-        <strong>Language/Techniques used are:</strong> C#.NET, WFA, Multi-Threading, DSA
-<br/>
-<br/>
-<br/>
 <br/>
 <h3> 🌱 I’m currently learning:</h3>
 <strong>Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.</strong>
@@ -348,3 +309,44 @@
 <br/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-pandey-04&show_icons=true&locale=en" alt="himanshu-pandey-04" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## 🔭 Projects - 3 mega and 5 mini
+
+<h3> 1. AI integrated E-Commerce multi-category website development</h3>
+        <em>Leading a team to build a full fledged E-Commerce website with the integration of Full-Stack Development and Artificial Intelligence</em><br/>
+        <br/>
+        <ul>
+        <li> Responsive-Animated Website for both consumer and manufacturer</li>
+        <li> New and unique ideas implemented</li>
+        <li> Chatbot integrated, personalized recommendation, Analysis</li>
+        </ul>
+        <strong>Languages used are:</strong> HTML, CSS, Js, Python, Sqlite, MongoDB<br/>
+        <strong>Frameworks used are:</strong> React.js, Django<br/>
+        <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, Natural Language Processing, Recommendation, Clustering, Regression, VPR, Computer Vision, etc.
+<br/><br/>
+  <h3> 2. AI Digital Assistant</h3>
+        <em>Being in 5th gen of computers, and being enthusiastic in AI, I am working on a mega project for building a multi-purpose / multi-abled AI-Digital Assistant, which can perform various tasks, and possess various capabilities as follows:</em><br/>
+        <br/>
+        <ul>
+        <li> Device Surveillance and Controlling, File Manager</li>
+        <li> Personal and Voice Assistance</li>
+        <li> CV and Neural Networks, Data Warehousing, Data Analytics</li>
+        <li> Website Automations</li>
+        <li>Upcoming: Home Automation</li>
+        </ul>
+        <strong>AI Algorithms/Techniques used are:</strong> Neural Networks, NLP, Cosine-similarity, Decision Tree, Random Forest, Recommendation, Classification, Clustering, Regression, Computer Vision, etc.
+<br/><br/>
+  <h3> 3. Air-Traffic Controller</h3>
+        <em>To monitor Air Traffic, and facilitate easy management of priorities and emergencies, I built an C#.NET app with following features:</em><br/>
+        <br/>
+        <ul>
+        <li> Holding Stack Management - priority-wise analysis using Fuzzy Logic</li>
+        <li> Dynamic flight-status color-coded display</li>
+        <li> Role-based login system</li>
+         </ul>
+        <strong>Language/Techniques used are:</strong> C#.NET, WFA, Multi-Threading, DSA

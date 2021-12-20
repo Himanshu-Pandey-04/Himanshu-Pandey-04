@@ -222,7 +222,7 @@ Team and project management
         <br/>
         <br/>
         <h3 align="center">Artificial Intelligence and Machine learning</h3>
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="Tensorflow">
           <img
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
             alt="tensorflow"
@@ -230,7 +230,7 @@ Team and project management
             height="40"
           />
         </a>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Sci-Kit learn">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
             alt="scikit_learn"
@@ -238,7 +238,7 @@ Team and project management
             height="40"
           />
         </a>
-        <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
           <img
             src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
             alt="opencv"
@@ -246,7 +246,7 @@ Team and project management
             height="40"
           />
         </a>      
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
             alt="pandas"
@@ -303,6 +303,7 @@ Team and project management
         href="https://www.gnu.org/software/bash/"
         target="_blank"
         rel="noreferrer"
+        title="Bash"
       >
         <img
           src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -311,7 +312,7 @@ Team and project management
           height="40"
         />
       </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
@@ -341,7 +342,7 @@ Team and project management
       <br/>
       <br/>
       <h3 align="center">IOT</h3>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
         <img
           src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
           alt="arduino"

@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <h3> 🌱 I’m currently learning:</h3>
-Docker, AWS, GCP, IOT and little bit of Hacking in order to program even more efficient and hack-free apps/websites.
+Docker, AWS and IOT
 <br/>
 <br/>
 <h3> 🤝 I’m looking to collaborate on:</h3>

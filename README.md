@@ -45,7 +45,7 @@ Team and project management
 <h1 align="left">Connect with me:</h1>
 <p align="left">
     <a
-      href="https://linkedin.com/in/www.linkedin.com/in/himanshu-pandey-070a001b6"
+      href="www.linkedin.com/in/himanshu-pandey-070a001b6"
       target="blank"
       ><img
         align="center"

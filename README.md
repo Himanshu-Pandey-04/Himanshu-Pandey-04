@@ -1,5 +1,6 @@
 <h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Pandey :person_in_tuxedo:</h1>
-  <br/>
+<h1 align="center"><img  align="center" src="https://user-images.githubusercontent.com/71135171/150466580-ef8c820d-ced7-4e54-a683-eebe6574b6ae.jpg" width=150px/></h1>
+
   <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and :man_technologist: AI programmer</h3>
   <h4 align="center"><em>Thought: Luck is when Preparation meets Oppurtunity</em></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" />

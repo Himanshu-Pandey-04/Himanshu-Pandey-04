@@ -30,7 +30,7 @@ Data structures and algorithms, dynamic programming and competitive programming 
 <br/>
 <br/>
   <h3> 💬 Ask me about:</h3>
-React, Django, Selenium, C#.NET, CP, DP, DSA, PyAutoGUI
+React, Django, Selenium, ML-AI, C#.NET, CP, DP, DSA, Automation, Web Scraping
 <br/>
 <br/>
   <h3> 📫 How to reach me:</h3>

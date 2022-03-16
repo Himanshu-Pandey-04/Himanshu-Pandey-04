@@ -2,7 +2,7 @@
 <h1 align="center"><img  align="center" src="https://user-images.githubusercontent.com/71135171/150466580-ef8c820d-ced7-4e54-a683-eebe6574b6ae.jpg" width=150px/></h1>
 
   <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and :man_technologist: AI programmer</h3>
-  <h4 align="center"><em>Thought: Luck is when Preparation meets Oppurtunity</em></h3>
+  <h4 align="center"><em>Thought: Luck is when Preparation meets Opportunity</em></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
 </p>

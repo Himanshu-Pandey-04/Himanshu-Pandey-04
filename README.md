@@ -1,4 +1,5 @@
-<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Himanshu Pandey :person_in_tuxedo:</h1>
+<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi, I'm Himanshu Pandey :person_in_tuxedo:</h1>
+<!--<img style="max-height:30px; max-width:30px"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <h1 align="center"><img  align="center" src="https://user-images.githubusercontent.com/71135171/150466580-ef8c820d-ced7-4e54-a683-eebe6574b6ae.jpg" width=150px/></h1>
 
   <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and :man_technologist: AI programmer</h3>

@@ -11,35 +11,42 @@
 <br/>
 <br/>
 <h3> 🌱 I’m currently learning:</h3>
-Docker, AWS and IOT
+<li><b>NextJs</b></li>
 <br/>
 <br/>
 <h3> 🤝 I’m looking to collaborate on:</h3>
-Full-stack dev, AI-ML dev or automation projects
+<li><b>Full-stack dev</b></li>
+<li><b>AI-ML dev</b></li>
+<li><b>Automation projects</b></li>
 <br/>
 <br/>
 <h3> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h3>
-C++, Python, Java, HTML, CSS, Js, C#.NET, SQL, C++/CLR, Linux, Arduino, Testing, Automation
+<li><b>C++, Python, Java</b></li>
+<li><b>MERN Stack, Django-React Stack, HTML - CSS - Js</b></li>
+<li><b>C#.NET, WFA</b></li>
+<li><b>MSSQL Server, MySQL, MongoDB</b></li>
+<li><b>Linux, Arduino</b></li>
+<li><b>Amazon Web Services</b></li>
 <br/>
 <br/>
 <h3> :chart_with_upwards_trend: All of my projects are available at:</h3>
-GitHub, Kaggle, out of which some are public.
+<li><b>GitHub, Kaggle, out of which some are public.</b></li>
 <br/>
 <br/>
   <h3> 📝 I regularly practise on:</h3>
-Data structures and algorithms, dynamic programming and competitive programming Skills
+<li><b>Data structures and algorithms, dynamic programming and competitive programming Skills</b></li>
 <br/>
 <br/>
   <h3> 💬 Ask me about:</h3>
-React, Django, Selenium, ML-AI, C#.NET, CP, DP, DSA, Automation, Web Scraping
+<li><b>React, Django, Selenium, ML-AI, C#.NET, CP, DP, DSA, Automation, Web Scraping</b></li>
 <br/>
 <br/>
   <h3> 📫 How to reach me:</h3>
-himanshuvpandey@gmail.com
+<li><b>himanshuvpandey@gmail.com</b></li>
 <br/>
 <br/>
   <h3> ⚡ I'm pretty good at:</h3>
-Team and project management
+<li><b>Team and project management</b></li>
 <br/>
 <br/>
 <br/>
@@ -422,3 +429,4 @@ Team and project management
         <li> Role-based login system</li>
          </ul>
         <strong>Language/Techniques used are:</strong> C#.NET, WFA, Multi-Threading, DSA
+

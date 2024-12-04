@@ -2,7 +2,7 @@
 <!--<img style="max-height:30px; max-width:30px"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <!-- <h1 align="center"><img  align="center" src="https://user-images.githubusercontent.com/71135171/150466580-ef8c820d-ced7-4e54-a683-eebe6574b6ae.jpg" width=150px/></h1> -->
 
-  <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic Full-stack developer and :man_technologist: AI programmer</h3>
+  <h3 align="center" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">An enthusiastic AI programmer and :man_technologist: Full-stack developer </h3>
   <h4 align="center"><em>Thought: Luck is when Preparation meets Opportunity</em></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshu-pandey-04&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-pandey-04" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
@@ -11,22 +11,23 @@
 <br/>
 <br/>
 <h3> 🌱 I’m currently learning:</h3>
-<li><b>NextJs</b></li>
+<li><b>Decentralized Autonomous Organizations</b></li>
 <br/>
 <br/>
 <h3> 🤝 I’m looking to collaborate on:</h3>
-<li><b>Full-stack dev</b></li>
-<li><b>AI-ML dev</b></li>
-<li><b>Automation projects</b></li>
+<li><b>AI-ML development</b></li>
+<li><b>Full-stack development</b></li>
+<li><b>Blockchain network</b></li>
 <br/>
 <br/>
 <h3> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h3>
-<li><b>C++, Python, Java</b></li>
-<li><b>MERN Stack, Django-React Stack, HTML - CSS - Js</b></li>
-<li><b>C#.NET, WFA</b></li>
+<li><b>Python, C++, Java</b></li>
+<li><b>MERN Stack, Django-React Stack, HTML-CSS-Js</b></li>
+<li><b>Amazon Web Services</b></li>
+<li><b>Blockchain</b></li>
 <li><b>MSSQL Server, MySQL, MongoDB</b></li>
 <li><b>Linux, Arduino</b></li>
-<li><b>Amazon Web Services</b></li>
+
 <br/>
 <br/>
 <h3> :chart_with_upwards_trend: All of my projects are available at:</h3>
@@ -38,14 +39,14 @@
 <br/>
 <br/>
   <h3> 💬 Ask me about:</h3>
-<li><b>React, Django, Selenium, ML-AI, C#.NET, CP, DP, DSA, Automation, Web Scraping</b></li>
+<li><b>Artificial Intelligence, Deep learning, Blockchain, MERN, Selenium, Automation</b></li>
 <br/>
 <br/>
   <h3> 📫 How to reach me:</h3>
 <li><b>himanshuvpandey@gmail.com</b></li>
 <br/>
 <br/>
-  <h3> ⚡ I'm pretty good at:</h3>
+  <h3> ⚡ I also possess 2+ yrs of experience in developing & expanding a multi-branch community (GDU):</h3>
 <li><b>Team and project management</b></li>
 <br/>
 <br/>

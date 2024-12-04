@@ -57,12 +57,12 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left">
     <a
-      href="www.linkedin.com/in/himanshu-v-pandey"
+      href="https://linkedin.com/in/himanshu-v-pandey"
       target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="www.linkedin.com/in/himanshu-v-pandey"
+        alt="https://linkedin.com/in/himanshu-v-pandey"
         height="30"
         width="40"
     /></a>
@@ -87,12 +87,12 @@
         width="40"
     /></a>
     <a
-      href="https://www.instagram.com/himanshu_pandey_04/"
+      href="https://www.instagram.com/himanshu.pandey_04/"
       target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="https://www.instagram.com/himanshu_pandey_04/"
+        alt="https://www.instagram.com/himanshu.pandey_04/"
         height="30"
         width="40"
     /></a>

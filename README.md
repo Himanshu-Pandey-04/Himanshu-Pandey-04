@@ -22,9 +22,9 @@
 <br/>
 <h3> 👨‍💻 I've an excellent grab on PLs, SLs and technologies like:</h3>
 <li><b>Python, C++, Java</b></li>
-<li><b>MERN Stack, Django-React Stack, HTML-CSS-Js</b></li>
 <li><b>Amazon Web Services</b></li>
 <li><b>Blockchain</b></li>
+<li><b>MERN Stack, Django-React Stack, HTML-CSS-Js</b></li>
 <li><b>MSSQL Server, MySQL, MongoDB</b></li>
 <li><b>Linux, Arduino</b></li>
 
@@ -35,7 +35,7 @@
 <br/>
 <br/>
   <h3> 📝 I regularly practise on:</h3>
-<li><b>Data structures and algorithms, dynamic programming and competitive programming Skills</b></li>
+<li><b>Data structures and algorithms, dynamic programming and competitive programming</b></li>
 <br/>
 <br/>
   <h3> 💬 Ask me about:</h3>
@@ -48,13 +48,16 @@
 <br/>
   <h3> ⚡ I also possess 2+ yrs of experience in developing & expanding a multi-branch community (GDU):</h3>
 <li><b>Team and project management</b></li>
+<li><b>Board membership</b></li>
+<li><b>Research & Development</b></li>
+<li><b>Business process improvement</b></li>
 <br/>
 <br/>
 <br/>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
     <a
-      href="www.linkedin.com/in/himanshu-pandey-070a001b6"
+      href="www.linkedin.com/in/himanshu-v-pandey"
       target="blank"
       ><img
         align="center"

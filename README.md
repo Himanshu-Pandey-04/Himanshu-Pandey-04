@@ -62,12 +62,12 @@
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="www.linkedin.com/in/himanshu-pandey-070a001b6"
+        alt="www.linkedin.com/in/himanshu-v-pandey"
         height="30"
         width="40"
     /></a>
     <a
-      href="https://stackoverflow.com/users/https://stackoverflow.com/users/14952627/himanshu-pandey"
+      href="https://stackoverflow.com/users/14952627/himanshu-pandey"
       target="blank"
       ><img
         align="center"
@@ -77,7 +77,7 @@
         width="40"
     /></a>
     <a
-      href="https://kaggle.com/https://www.kaggle.com/himanshuvpandey"
+      href="https://www.kaggle.com/himanshuvpandey"
       target="blank"
       ><img
         align="center"
@@ -87,17 +87,17 @@
         width="40"
     /></a>
     <a
-      href="https://instagram.com/https://www.instagram.com/himanshu_pandey_0412/"
+      href="https://www.instagram.com/himanshu_pandey_04/"
       target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="https://www.instagram.com/himanshu_pandey_0412/"
+        alt="https://www.instagram.com/himanshu_pandey_04/"
         height="30"
         width="40"
     /></a>
     <a
-      href="https://www.codechef.com/users/https://www.codechef.com/users/himpan"
+      href="https://www.codechef.com/users/himpan"
       target="blank"
       ><img
         align="center"
@@ -107,7 +107,7 @@
         width="40"
     /></a>
     <a
-      href="https://www.hackerrank.com/https://www.hackerrank.com/hackerhp"
+      href="https://www.hackerrank.com/hackerhp"
       target="blank"
       ><img
         align="center"
@@ -117,7 +117,7 @@
         width="40"
     /></a>
     <a
-      href="https://www.leetcode.com/https://leetcode.com/hacker_hp/"
+      href="https://leetcode.com/hacker_hp/"
       target="blank"
       ><img
         align="center"

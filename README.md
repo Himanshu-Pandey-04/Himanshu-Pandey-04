@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Hi, I'm Himanshu Pandey :person_in_tuxedo:     <a href="https://linkedin.com/in/himanshu-v-pandey" target="blank">
+<h1 align="center" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Himanshu Pandey      <a href="https://linkedin.com/in/himanshu-v-pandey" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/himanshu-v-pandey" height="30" width="40"/></a></h1>
 <!--<img style="max-height:30px; max-width:30px"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <!-- <h1 align="center"><img  align="center" src="https://user-images.githubusercontent.com/71135171/150466580-ef8c820d-ced7-4e54-a683-eebe6574b6ae.jpg" width=150px/></h1> -->
